@@ -1,0 +1,4 @@
+POST /calculator/add
+GET /calculator
+GET /lastResult
+POST /calculator/subtract
